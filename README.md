@@ -1,3 +1,6 @@
+nama  : kerisna
+nim   : 09030582226011
+
 # Tugas-Instalisasi-Kali-Linux
 1.	Pertama Install terlebih dahulu file ISO kali linux (https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-amd64.iso) 
 2.	Lalu Buka Aplikasi Virtual Box di dekstop anda
@@ -15,6 +18,6 @@
    ![image](https://github.com/user-attachments/assets/e1ae32c7-766a-4fc4-bd6f-4c1179ab3808)
    ![image](https://github.com/user-attachments/assets/e0bd23db-1444-444d-929b-0e6c1f11516b)
 9.Masukkan Username dan Password yang sudah di isi tadi lalu klik login
-    ![image](https://github.com/user-attachments/assets/ec12d518-78dd-4a86-981c-285592a61ebc)
+   ![image](https://github.com/user-attachments/assets/ec12d518-78dd-4a86-981c-285592a61ebc)
 10.OS kali linux sudah terinstall dan siap digunakan
-    ![image](https://github.com/user-attachments/assets/5133d683-4cf5-4bab-86ff-bb6daca88bed)
+   ![image](https://github.com/user-attachments/assets/5133d683-4cf5-4bab-86ff-bb6daca88bed)
